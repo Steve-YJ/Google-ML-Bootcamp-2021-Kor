@@ -17,7 +17,7 @@
 | Part4. Machine Learning Networking | `Tech Talk`, `Career,` `Growth`, `Mentoring` | # | # | # | 
 
 ### Timeline
-![logo](./img/ml-bootcamp-timeline.png)
+![logo](./img/ml-bootcamp-timeline-2.png)
 <br>
 
 
