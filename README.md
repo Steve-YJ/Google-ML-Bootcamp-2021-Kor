@@ -22,6 +22,21 @@
 
 
 ## 1. Deep Learning Specialization Course
+> The Deep Learning Specialization is a foundational program that will help you understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI technology. It provides a pathway for you to gain the knowledge and skills to apply machine learning to your work, level up your technical career, and take the definitive step in the world of AI. -by Coursera-
+
+
+### Course1. Nueral Networks and Deep Learning
+> In the first course of the Deep Learning Specialization, you will study the foundational concept of neural networks and deep learning. 
+* familiar with the significant technological trends driving the rise of deep learning
+* build, train, and apply fully connected deep neural networks
+* Implement efficient (vectorized) neural network
+* identify key parameters in a neural network's architecture
+* apply deep learning to your own applications
+
+- [x] Leaned basics of NN(Neural Networks)
+- [x] Did Numpy Programming(Basic) [code]()
+- [x] Done! Logistic_Regression_with_a_Neural_Network_mindset [code]()
+
 ## 2. TensorFlow Certification
 ## 3. Kaggle Competition
 ## 4. (Optional) GCP Professional Data Engineer certification 
