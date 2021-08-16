@@ -35,7 +35,7 @@
 - [ ] Lecture - Shallow Neural Network
 - [ ] Lecture Notes
 - [ ] Quiz
-- [x] Programming Assignment: Planar Data Classification with One Hidden Layer
+- [x] Programming Assignment: Planar Data Classification with One Hidden Layer [code](https://github.com/Steve-YJ/Google-ML-Bootcamp-2021-Kor/blob/main/Part1.%20Coursera%20Deep%20Learning%20Specialization%20Courses/Course1.%20Neural%20Networks%20and%20Deep%20Learning/Week3.%20Shallow%20Neural%20Networks/Planar_data_classification_with_one_hidden_layer.ipynb)
 <br>
 
 ## Week4. Deep Neural Networks
