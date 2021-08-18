@@ -34,7 +34,7 @@
 ### Lessons to learn
 - [ ] Lecture - Shallow Neural Network
 - [ ] Lecture Notes
-- [ ] Quiz
+- [x] Quiz
 - [x] Programming Assignment: Planar Data Classification with One Hidden Layer [code](https://github.com/Steve-YJ/Google-ML-Bootcamp-2021-Kor/blob/main/Part1.%20Coursera%20Deep%20Learning%20Specialization%20Courses/Course1.%20Neural%20Networks%20and%20Deep%20Learning/Week3.%20Shallow%20Neural%20Networks/Planar_data_classification_with_one_hidden_layer.ipynb)
 <br>
 
@@ -53,4 +53,4 @@
 
 ### Lessons to learn
 - [x] Building_your_Deep_Neural_Network_Step_by_Step.ipynb [code](https://github.com/Steve-YJ/Google-ML-Bootcamp-2021-Kor/blob/main/Part1.%20Coursera%20Deep%20Learning%20Specialization%20Courses/Course1.%20Neural%20Networks%20and%20Deep%20Learning/Week4.%20Deep%20Neural%20Networks/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
-- [x] Programming Assignment: Deep Neural Network - Application [code]()
+- [x] Programming Assignment: Deep Neural Network - Application [code](Programming Assignment: Deep Neural Network - Application)
