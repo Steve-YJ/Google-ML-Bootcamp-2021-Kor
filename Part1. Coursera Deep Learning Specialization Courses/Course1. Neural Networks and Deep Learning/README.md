@@ -1,5 +1,6 @@
+# Course1. Neural Networks and Deep Learning/
 ## Week2. Neural Networks Basics
-### Lessons to learn
+### Lessons learned
 - [x] Leaned basics of NN(Neural Networks)
 - [x] Did Numpy Programming(Basic) [code]()
 - [x] Done! Logistic_Regression_with_a_Neural_Network_mindset [code]()
@@ -31,7 +32,7 @@
 * Random Initialization
 
 
-### Lessons to learn
+### Lessons learned
 - [ ] Lecture - Shallow Neural Network
 - [ ] Lecture Notes
 - [x] Quiz
@@ -51,6 +52,6 @@
 * Parameters vs Hyperparameters
 * What does this have to do with the brain?
 
-### Lessons to learn
+### Lessons learned
 - [x] Building_your_Deep_Neural_Network_Step_by_Step.ipynb [code](https://github.com/Steve-YJ/Google-ML-Bootcamp-2021-Kor/blob/main/Part1.%20Coursera%20Deep%20Learning%20Specialization%20Courses/Course1.%20Neural%20Networks%20and%20Deep%20Learning/Week4.%20Deep%20Neural%20Networks/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
 - [x] Programming Assignment: Deep Neural Network - Application [code](https://github.com/Steve-YJ/Google-ML-Bootcamp-2021-Kor/blob/main/Part1.%20Coursera%20Deep%20Learning%20Specialization%20Courses/Course1.%20Neural%20Networks%20and%20Deep%20Learning/Week4.%20Deep%20Neural%20Networks/Deep%20Neural%20Network%20-%20Application.ipynb)
