@@ -41,6 +41,7 @@
 <br>
 ## Week3. Hyperparameter Tuning, Batch Normalization and Programming Frameworks
 > Explore TensorFlow, a deep learning framework that allows you to build neural networks quickly and easily, then train a neural network on a TensorFlow dataset.
+
 ### Goal
 * Master the process of hyperparameter tuning
 * Describe softmax classification for multiple classes
@@ -50,6 +51,7 @@
 * Use tf.Variable to modify the state of a variable
 * Apply TensorFlow decorators to speed up code
 * Explain the difference between a variable and a constant
+
 ### Lessons Learned
 - [ ] Quiz: Hyperparameter tuning, Batch Normalization, Programming Frameworks
 - [ ] Programming Assignment: TensorFlow Introduction
