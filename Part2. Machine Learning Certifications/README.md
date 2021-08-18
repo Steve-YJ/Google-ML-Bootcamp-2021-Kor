@@ -3,9 +3,21 @@
 > First. TensorFlow Certification<br>
 > Second. Google Cloud Platform Data Engineer Professional
 
-# 2.1. TensorFlow Certification
-## What is TensorFlow Certification?
+<br>
+
+## 2.0. DeepLearning.AI TensorFlow Developer Professional Certification
+> It's time to learn TensorFlow!
+
+**DeepLearning.AI TensorFlow Developer Professional Certification [link](https://www.coursera.org/professional-certificates/tensorflow-in-practice)**
+- [ ] Course1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning [link](https://www.coursera.org/learn/introduction-tensorflow?specialization=tensorflow-in-practice)
+
+<br>
+
+## 2.1. TensorFlow Certification
+### What is TensorFlow Certification?
 > The purpose of the certificate is to provide an opportunity for anyone around the world to showcase their ML expertise in the fast-growing AI-powered global job market. This TensorFlow Development Certificate is the primary certificate for students, developers, and data scientists who want to demonstrate their machine learning skills in practice by building and training models with TensorFlow. -tensorflow.org-
+
+<br>
 
 ## Reference
 * About TensorFlow Certification [link](https://www.tensorflow.org/certificate)
