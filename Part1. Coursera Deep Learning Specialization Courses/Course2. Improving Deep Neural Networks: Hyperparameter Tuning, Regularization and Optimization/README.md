@@ -59,4 +59,5 @@
 # Next: Learn TensorFlow
 > It's time to learn TensorFlow!
 
-- [ ] TensorFlow: Data and Deployment Specialized Course [link](https://www.coursera.org/specializations/tensorflow-data-and-deployment?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=TF1)
+- [ ] DeepLearning.AI TensorFlow Developer Professional Certification [link](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+- [ ] Course1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning [link](https://www.coursera.org/learn/introduction-tensorflow?specialization=tensorflow-in-practice)
