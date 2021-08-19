@@ -88,6 +88,7 @@
 # Part3. Kaggle Competition
 # Part4. (Optional) GCP Professional Data Engineer certification 
 <br>
+
 # Networking
 ## N1. Tech Talk
 ## N2. Career Session
