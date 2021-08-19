@@ -23,10 +23,12 @@
 
 # Part1. Deep Learning Specialization Course
 > The Deep Learning Specialization is a foundational program that will help you understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI technology. It provides a pathway for you to gain the knowledge and skills to apply machine learning to your work, level up your technical career, and take the definitive step in the world of AI. -by Coursera-
+* Course by Coursera - Deep Learning Specialization Course [link](https://www.coursera.org/specializations/deep-learning)
+* Lecturer - Andrew Ng
 
 <br>
 
-## Course1. Nueral Networks and Deep Learning
+## Course1. Neural Networks and Deep Learning
 > In the first course of the Deep Learning Specialization, you will study the foundational concept of neural networks and deep learning. 
 * familiar with the significant technological trends driving the rise of deep learning
 * build, train, and apply fully connected deep neural networks
@@ -35,8 +37,11 @@
 * apply deep learning to your own applications
 
 - [x] Leaned basics of NN(Neural Networks)
-- [x] Did Numpy Programming(Basic) [code]()
-- [x] Done! Logistic_Regression_with_a_Neural_Network_mindset [code]()
+- [x] Numpy Programming(Basic) [code](https://github.com/Steve-YJ/Google-ML-Bootcamp-2021-Kor/blob/main/Part1.%20Coursera%20Deep%20Learning%20Specialization%20Courses/Python_Basics_with_Numpy.ipynb)
+- [x] Programming Assignment: Logistic_Regression_with_a_Neural_Network_mindset [code](https://github.com/Steve-YJ/Google-ML-Bootcamp-2021-Kor/blob/main/Part1.%20Coursera%20Deep%20Learning%20Specialization%20Courses/Course1.%20Neural%20Networks%20and%20Deep%20Learning/Week2.%20Neural%20Networks%20Basics/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
+- [x] Programming Assignment: Building_your_Deep_Neural_Network_Step_by_Step.ipynb [code](https://github.com/Steve-YJ/Google-ML-Bootcamp-2021-Kor/blob/main/Part1.%20Coursera%20Deep%20Learning%20Specialization%20Courses/Course1.%20Neural%20Networks%20and%20Deep%20Learning/Week4.%20Deep%20Neural%20Networks/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
+- [x] Programming Assignment: Deep Neural Network - Application [code](https://github.com/Steve-YJ/Google-ML-Bootcamp-2021-Kor/blob/main/Part1.%20Coursera%20Deep%20Learning%20Specialization%20Courses/Course1.%20Neural%20Networks%20and%20Deep%20Learning/Week4.%20Deep%20Neural%20Networks/Deep%20Neural%20Network%20-%20Application.ipynb)
+- [x] Programming Assignment: Planar Data Classification with One Hidden Layer [code](https://github.com/Steve-YJ/Google-ML-Bootcamp-2021-Kor/blob/main/Part1.%20Coursera%20Deep%20Learning%20Specialization%20Courses/Course1.%20Neural%20Networks%20and%20Deep%20Learning/Week3.%20Shallow%20Neural%20Networks/Planar_data_classification_with_one_hidden_layer.ipynb)
 
 <br>
 
