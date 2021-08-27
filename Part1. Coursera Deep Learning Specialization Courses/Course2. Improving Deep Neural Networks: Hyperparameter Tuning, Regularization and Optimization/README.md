@@ -21,10 +21,10 @@
 * Apply regularization to a deep learning model
 
 ### Lessons Learned
-- [ ] Quiz. Practical aspects of Deep Learning
-- [ ] Programming Assignment: Initialization
-- [ ] Programming Assignment: Regularization
-- [ ] Programming Assignment: Gradient Checking
+- [x] Quiz. Practical aspects of Deep Learning
+- [x] Programming Assignment: Initialization
+- [x] Programming Assignment: Regularization
+- [x] Programming Assignment: Gradient Checking
 <br>
 
 ## Week2. Optimization Algorithms
