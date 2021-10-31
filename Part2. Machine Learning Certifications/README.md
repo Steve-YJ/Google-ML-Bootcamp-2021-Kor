@@ -14,6 +14,7 @@
 <br>
 
 ## 2.1. TensorFlow Certification
+<img src="https://1.bp.blogspot.com/-gbwBTpsa2GA/XmmgEwFv5wI/AAAAAAAAC1U/k9UlGISLDjc_HwHtPfDcw1-W46M2LFt9wCLcBGAsYHQ/s1600/tf_badge_cert_tf_certified_developer.png" alt = 'TensorFlow Developer Certification' width=240, height=240></img>
 ### What is TensorFlow Certification?
 > The purpose of the certificate is to provide an opportunity for anyone around the world to showcase their ML expertise in the fast-growing AI-powered global job market. This TensorFlow Development Certificate is the primary certificate for students, developers, and data scientists who want to demonstrate their machine learning skills in practice by building and training models with TensorFlow. -tensorflow.org-
 
