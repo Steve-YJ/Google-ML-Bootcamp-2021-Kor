@@ -1,7 +1,9 @@
 # Hands-On-Machine Learning Part2. 2020
-![Hands-On-Machine-Learning](https://image.aladin.co.kr/product/23767/71/cover500/k532639960_1.jpg)
+<img src="https://image.aladin.co.kr/product/23767/71/cover500/k532639960_1.jpg" alt="hands on machine learning" width=400 height=500></img>
 
-<code>해당 Repository는 한빛 미디어의 '핸즈온 머신러닝 (2판)을 학습하며 정리한 내용을 담았습니다</code> 
+> 해당 Repository는 한빛 미디어의 '핸즈온 머신러닝 (2판)을 학습하며 정리한 내용을 담았습니다
+
+<br>
 
 ## 시작하며
 
@@ -71,5 +73,5 @@
 5. 기존 예제 코드 업데이트
 
 ## Reference
-* Scikit-Learn** : http://scikit-learn.org
-* TensorFlow** : https://www.tensorflow.org
+* Scikit-Learn : http://scikit-learn.org
+* TensorFlow : https://www.tensorflow.org
